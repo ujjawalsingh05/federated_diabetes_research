@@ -1,0 +1,34 @@
+# Python environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac files
+.DS_Store
+
+# Model files
+*.h5
+*.keras
+*.pth
+*.pt
+
+# Large datasets (review before ignoring)
+# Research datasets - keep locally, don't push
+data/raw/
+data/clients/
+data/processed/
+
+# Trained models
+models/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+

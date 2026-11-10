@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.7190423630820982,
+  "precision_class_1": 0.30638787094919884,
+  "recall_class_1": 0.8042248208223312,
+  "f1_class_1": 0.4437275612674957,
+  "macro_f1": 0.6278934896958908,
+  "weighted_f1": 0.7607376609221755,
+  "roc_auc": 0.8295194525470729,
+  "threshold": 0.5,
+  "test_rows": 38052,
+  "total_inference_seconds": 0.2867,
+  "mean_inference_seconds_per_sample": 7.535735099185988e-06
+}

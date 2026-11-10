@@ -1,0 +1,19 @@
+{
+  "dataset_id": 891,
+  "seed": 42,
+  "target_column": "Diabetes_binary",
+  "feature_count": 21,
+  "class_distribution": {
+    "0": 218334,
+    "1": 35346
+  },
+  "partitions": {
+    "train": 177576,
+    "validation": 38052,
+    "test": 38052
+  },
+  "preprocessing": [
+    "Median imputation fitted on training data only",
+    "StandardScaler fitted on training data only"
+  ]
+}
