@@ -32,3 +32,11 @@ models/
 **/__pycache__/
 *.py[cod]
 
+
+.venv/
+__pycache__/
+.DS_Store
+data/
+models/
+*.keras
+*.csv
